@@ -1,0 +1,15 @@
+
+.label {
+    font-weight: bold;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.input {
+    font-weight: lighter;
+}
+
+.formbtn {
+    background-color: blue !important;
+    color: white !important;
+}
